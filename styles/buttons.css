@@ -5,12 +5,11 @@
 
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     width: fit-content;
 
     border-radius: .5rem;
-    
-    font: var(--fw-md) var(--fs-base)/1.5rem var(--ff-sans);
+    font: var(--fw-md) var(--fs-base)/ 1.5rem var(--ff-sans);
 
     cursor: pointer;
 

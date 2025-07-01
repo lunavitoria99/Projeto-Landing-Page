@@ -28,11 +28,12 @@
 
         background: url(../assets/icons/bg-hero-desktop.svg) no-repeat bottom center/contain;
         padding-bottom: 15rem;
+
         & img[src*="music"] {
         width: 25.75rem;
     }
     & h1 {
-        margin-top: 1.5rem;
+        margin-top: 1.rem;
     }
 
     & p {
