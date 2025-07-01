@@ -1,5 +1,7 @@
 <h1 align="center">ZINGEN</h1>
-<img src="/assets/image.png">
+
+<img src="./assets/images/image.png">
+
 ## Sobre o projeto
 Zingen é um aplicativo de karaokê que combina tecnologia de ponta e uma experiência gamificada para transformar sua paixão por cantar em algo ainda mais divertido e emocionante. 
 
